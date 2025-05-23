@@ -1,0 +1,5 @@
+gift1 = input("What gift would you like for Christmas?")
+gift2 = input("What is the second gift you would like for Christmas?")
+gift3 = input("What is the final gift you would like for Christmas?")
+gift_total = (gift1 + gift2 + gift3)
+print(gift_total)
